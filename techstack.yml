@@ -2,7 +2,7 @@ repo_name: BenHerbst/Todos
 report_id: 847531c066fb199ad1dc75707a32e077
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-18T21:48:12+00:00'
+timestamp: '2024-01-05T08:20:46+00:00'
 requested_by: BenHerbst
 provider: github
 branch: main
@@ -16,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/BenHerbst/Todos
   detection_source: Repo Metadata
